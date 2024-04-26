@@ -31,9 +31,10 @@ Registra um aluno com nome e CPF, ambos obrigatórios. O CPF deve ser apenas os 
 
 ## Rodando os testes
 
-Para rodar os testes, rode o seguinte comando
+Para rodar os testes, rode os seguintes comandos
 
 ```bash
+  npm start
   npm test
 ```
 
